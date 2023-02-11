@@ -2,3 +2,4 @@ jupyterlab
 ipywidgets
 
 servicex-clients
+func_adl_servicex_xaodr21
