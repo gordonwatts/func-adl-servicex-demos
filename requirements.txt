@@ -1,7 +1,6 @@
 jupyterlab
 ipywidgets
-maplotlib
+matplotlib
 
 servicex-clients
 func_adl_servicex_xaodr21
-matplotlib
