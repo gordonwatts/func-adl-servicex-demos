@@ -116,3 +116,4 @@ servicex.yaml
 
 # ServiceX stuff
 servicex.yaml
+.venv*/

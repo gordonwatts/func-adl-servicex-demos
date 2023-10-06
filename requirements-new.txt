@@ -1,0 +1,5 @@
+jupyterlab
+ipywidgets
+matplotlib
+
+servicex>=3.0.0a1
