@@ -4,3 +4,10 @@ matplotlib
 
 servicex-clients
 func_adl_servicex_xaodr21
+func_adl_servicex_xaodr24
+func_adl_servicex_xaodr22
+
+# Below is automatically included above, unless
+# you want to be able to run out of local docker
+# containers. You don't need this normally.
+func_adl_servicex[local]
